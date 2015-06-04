@@ -4,6 +4,10 @@
 	<artifactId>orika-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Orika Demo</name>
+	<properties>
+		<maven.compiler.source>1.7</maven.compiler.source>
+		<maven.compiler.target>1.7</maven.compiler.target>
+	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>ma.glasnost.orika</groupId>
